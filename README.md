@@ -91,7 +91,7 @@ Desenvolvido com ❤️ por David Henrique Souza Santana 👋🏽 Meus Contatos!
 
 <div align="center">
 
-Copyright ©️ 2021 [David Henrique Souza Santana ](https://github.com/DavidSaintAnna).<br />
+Copyright ©️ 2023 [David Henrique Souza Santana ](https://github.com/DavidSaintAnna).<br />
 This project is licensed by [MIT](./LICENSE).
 
 </div>
