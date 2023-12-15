@@ -18,7 +18,7 @@ Deploy do front-end efetuado no [Netlify](https://www.netlify.com/) para visuali
 
 |                             :computer:Desktop                             |                             :iphone: Mobile                              |
 | :-----------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-| <kbd>  <img alt="project" src="assets/images/desktop.png" width="100%"></kbd> | <kbd><img alt="project" src="assets/images/desktop.png" width="100%"></kbd> |
+| <kbd>  <img alt="project" src="assets/images/desktop.PNG" width="30%"></kbd> | <kbd><img alt="project" src="assets/images/mobile.PNG" width="30%"></kbd> |
 </div>
   
 ---
