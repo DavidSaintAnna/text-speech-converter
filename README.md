@@ -81,7 +81,7 @@ Aplicação frontEnd responsiva utilizando API de reconhecimento de voz, tudo o 
 
 Desenvolvido com ❤️ por David Henrique Souza Santana 👋🏽 Meus Contatos!
 
-[![Linkedin Badge](https://www.linkedin.com/in/david-santana-09a0a5238/)
+[Linkedin Badge](https://www.linkedin.com/in/david-santana-09a0a5238/)
 
 </div>
 
