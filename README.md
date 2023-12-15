@@ -75,7 +75,6 @@ Aplicação frontEnd responsiva utilizando API de reconhecimento de voz, tudo o 
 <div align="center">
 
 <a href="https://github.com/DavidSaintAnna">
- <img src="https://avatars.githubusercontent.com/u/86388366?s=400&u=d21331492a58a33c31dd248c2cac51f177622ae2&v=4"  width="100px;" alt="DavidSaintAnna"/>
  <br/>
  <sub><b>DavidSaintAnna</b></sub>
 </a>
